@@ -1,0 +1,3 @@
+output\vocabulary.pickle : 2024-05-22 17:24:30.823539 : words=63498 : file_size=724697bytes
+output\vocabulary.json : 2024-05-22 17:26:37.283793 : words=63498 : file_size=807283bytes
+output\vocabulary.txt : 2024-05-22 17:36:23.825054 : words=63499 : file_size=787971bytes
